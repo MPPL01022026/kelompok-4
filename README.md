@@ -1,6 +1,16 @@
 <div align="center">
-  <img src="banner-kelompok-4.png" width="100%" alt="Banner 3D Bakso Jambo Langsa - Kelompok 4"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,50:E87936,100:FFCB8E&height=250&section=header&text=BAKSO%20JAMBO&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=KELOMPOK%204%20%E2%80%A2%20UMKM%20DIGITAL&descAlignY=58&descSize=20" alt="Bakso Jambo Langsa - Kelompok 4"/>
+
+### 🍜 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Project!
+
+<img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/> <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/> <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
+
+*Local Taste, Digital Experience ♡*
+
 </div>
+
+---
 <img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
 <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
 <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
