@@ -281,11 +281,11 @@ Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, dan peranc
 
 | Dokumen | Penjelasan |
 |:--|:--|
-| [📌 Work Breakdown Structure](docs/wbs.md) | Pembagian pekerjaan dan ruang lingkup proyek |
-| [🔄 Agile Methodology](docs/agile-methodology.md) | Metode pengembangan dan perencanaan sprint |
-| [📊 Function Point Analysis](docs/function-point.md) | Estimasi ukuran fungsional sistem |
-| [⚙️ Project Setup](docs/project-setup.md) | Panduan konfigurasi proyek |
-| [🎨 UX Design](docs/ux-design.md) | Rancangan antarmuka dan pengalaman pengguna |
+| [📌 Work Breakdown Structure](wbs.md) | Pembagian pekerjaan dan ruang lingkup proyek |
+| [🔄 Agile Methodology](agile-methodology.md) | Metode pengembangan dan perencanaan sprint |
+| [📊 Function Point Analysis](function-point.md) | Estimasi ukuran fungsional sistem |
+| [⚙️ Project Setup](project-setup.md) | Panduan konfigurasi proyek |
+| [🎨 UX Design](ux-design.md) | Rancangan antarmuka dan pengalaman pengguna |
 
 ## 🤝 09. Collaboration Workflow
 
