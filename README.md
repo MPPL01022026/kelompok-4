@@ -1,77 +1,88 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,45:E87936,100:FFCB8E&height=240&section=header&text=KELOMPOK%204&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Bakso%20Jambo%20Langsa&descAlignY=58&descSize=24" alt="Kelompok 4 - Bakso Jambo Langsa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,45:E87936,100:FFCB8E&height=240&section=header&text=KELOMPOK%204&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=🍜%20Bakso%20Jambo%20Langsa%20%E2%9C%A8&descAlignY=58&descSize=22" alt="Banner Kelompok 4"/>
 
-<h3>🍜 LOCAL TASTE, DIGITAL EXPERIENCE</h3>
+# 🍜 ♡ Bakso Jambo Langsa ♡
 
-<p><b>Mengangkat cita rasa lokal melalui pengalaman digital yang modern.</b></p>
+### ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project!
 
-<img src="https://img.shields.io/badge/PROJECT-UMKM%20DIGITAL-B83227?style=for-the-badge&logo=github&logoColor=white" alt="Project UMKM Digital"/>
-<img src="https://img.shields.io/badge/SPRINT-01-E87936?style=for-the-badge" alt="Sprint 1"/>
-<img src="https://img.shields.io/badge/TEAM-KELOMPOK%204-68443A?style=for-the-badge" alt="Kelompok 4"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFCB8E?style=for-the-badge" alt="In Development"/>
+*Local Taste, Digital Experience* ♡
+
+<img src="https://img.shields.io/badge/🍜_PROJECT-UMKM_DIGITAL-B83227?style=for-the-badge" alt="Project UMKM Digital"/>
+<img src="https://img.shields.io/badge/✨_SPRINT-01-E87936?style=for-the-badge" alt="Sprint 1"/>
+<img src="https://img.shields.io/badge/💗_TEAM-KELOMPOK_4-68443A?style=for-the-badge" alt="Kelompok 4"/>
 
 <br/>
 
 <a href="https://mppl01022026.github.io/kelompok-4/">
-<img src="https://img.shields.io/badge/🌐_LIHAT_WEBSITE-B83227?style=for-the-badge" alt="Lihat Website"/>
+<img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-B83227?style=for-the-badge" alt="Visit Website"/>
 </a>
+
+<br/>
+
+**૮₍ ˶•⤙•˶ ₎ა** Semangkuk Bakso, Sejuta Cerita! **૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა**
+
+*Menghadirkan cita rasa lokal ke dunia digital, satu mangkuk penuh cerita.* 💌
 
 </div>
 
 ---
 
-## 👋 01. Selamat Datang di Repository Kami!
+## 🌷 01. Hello, Everyone!
 
-Halo semuanya! 👋🍜
+Hiii, everyone! 👋🏻💗
 
-Selamat datang di repository resmi **Kelompok 4**, sebuah tim yang berkolaborasi dalam proyek pengembangan perangkat lunak untuk mendukung digitalisasi UMKM **Bakso Jambo Langsa, Aceh**.
+Selamat datang di repository resmi **Kelompok 4** dalam proyek pengembangan perangkat lunak untuk UMKM **Bakso Jambo Langsa, Aceh**.
 
-Kami mengembangkan website yang bertujuan memperkenalkan usaha kuliner lokal melalui tampilan digital yang informatif, menarik, dan mudah diakses.
+Repository ini menjadi tempat kami berkolaborasi, berbagi ide, menyusun dokumentasi, dan mengembangkan website untuk memperkenalkan usaha kuliner lokal melalui media digital.
 
-Dengan perpaduan teknologi, kreativitas, dan kerja sama tim, kami ingin menghadirkan pengalaman digital yang membantu pelanggan mengenal usaha, melihat menu, serta memperoleh informasi yang dibutuhkan.
+Kami ingin menghadirkan website yang informatif, menarik, dan mudah diakses agar pelanggan dapat mengenal usaha, melihat menu, serta memperoleh informasi yang dibutuhkan.
 
 <div align="center">
 
-### 🍜 Semangkuk Bakso, Sejuta Cerita
+🌸 ─────────────── 🌸
 
-*Small Business, Big Digital Impact!*
+**Small Business, Big Digital Impact!**
+
+*Made with teamwork, creativity, and a little bowl of bakso.* 🍜
+
+🌸 ─────────────── 🌸
 
 </div>
 
-## 🍥 02. Tentang Proyek
+## 🍥 02. About Our Project
 
 | Informasi | Keterangan |
 |:--|:--|
-| Nama Proyek | Website UMKM Bakso Jambo Langsa |
-| Nama Kelompok | Kelompok 4 |
-| Repository | `MPPL01022026/kelompok-4` |
-| Bidang | Pengembangan Perangkat Lunak |
-| Metodologi | Agile |
-| Tahapan | Sprint 1 |
-| Target Pengguna | Pelanggan dan pengelola UMKM |
+| 🍜 Nama Proyek | Website UMKM Bakso Jambo Langsa |
+| 👩🏻‍💻 Nama Kelompok | Kelompok 4 |
+| 📦 Repository | `MPPL01022026/kelompok-4` |
+| 🏫 Bidang | Pengembangan Perangkat Lunak |
+| 🔄 Metodologi | Agile |
+| 🚀 Tahapan | Sprint 1 |
+| 🎯 Target Pengguna | Pelanggan dan pengelola UMKM |
 
-### 🎯 Tujuan Proyek
+### 🎀 Our Goals
 
-- Memperkenalkan UMKM Bakso Jambo Langsa kepada masyarakat melalui website.
-- Menampilkan informasi menu dan harga produk.
-- Menyediakan galeri foto produk.
-- Mengembangkan fitur pengunggahan foto melalui penyimpanan online.
-- Memudahkan pelanggan mendapatkan informasi usaha.
-- Menerapkan kolaborasi pengembangan perangkat lunak menggunakan Git dan GitHub.
+- 💗 Memperkenalkan UMKM Bakso Jambo Langsa melalui website.
+- 🍜 Menampilkan menu, harga, dan foto produk.
+- 📸 Menyediakan galeri foto untuk pengunjung.
+- ☁️ Mengembangkan fitur unggah foto melalui penyimpanan online.
+- 📍 Memudahkan pelanggan mendapatkan informasi usaha.
+- 🤝 Menerapkan kolaborasi menggunakan Git dan GitHub.
 
-## 🥢 03. Fitur Website
+## 🥢 03. Website Features
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🏠 Beranda
 
-Halaman utama untuk memperkenalkan Bakso Jambo Langsa melalui tampilan yang menarik.
+Halaman utama yang memperkenalkan Bakso Jambo Langsa dengan tampilan menarik.
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🍜 Menu Bakso
 
@@ -80,65 +91,63 @@ Informasi menu dan harga untuk membantu pelanggan mengenal pilihan produk.
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 📸 Galeri Foto
 
-Galeri visual produk yang dapat dilihat oleh pengunjung website.
+Kumpulan foto produk yang dapat dilihat pengunjung website.
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### ⬆️ Upload Foto
+### ☁️ Upload Foto
 
-Fitur untuk membantu pengelola menambahkan foto produk melalui penyimpanan online.
+Fitur bagi pengelola untuk menambahkan foto produk melalui penyimpanan online.
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🏪 Tentang Kami
 
 Informasi mengenai usaha dan pengenalan UMKM Bakso Jambo Langsa.
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 📍 Lokasi dan Kontak
 
-Informasi lokasi serta kontak usaha untuk membantu pelanggan menemukan UMKM.
+Informasi lokasi dan kontak usaha untuk membantu pelanggan menemukan UMKM.
 
 </td>
 </tr>
 </table>
 
-> **Catatan:** Ketersediaan setiap fitur mengikuti implementasi kode yang sudah selesai. Fitur upload foto dan penyimpanan online memerlukan konfigurasi backend serta pengujian sebelum digunakan secara penuh.
+> 💌 **Catatan:** Ketersediaan fitur mengikuti implementasi kode yang sudah selesai. Fitur yang membutuhkan backend harus dikonfigurasi dan diuji terlebih dahulu.
 
-## 🎨 04. Design Concept
+## 🎨 04. Our Cute Color Palette
 
 <div align="center">
 
-| Warna | Kode | Makna |
+| Warna | Kode | Nuansa |
 |:--|:--|:--|
-| 🔴 Merah Bakso | `#B83227` | Kuat, berani, dan menggugah selera |
-| 🟠 Oranye | `#E87936` | Hangat, ramah, dan energik |
-| 🟡 Krem | `#FFCB8E` | Hangat, lembut, dan nyaman |
-| 🤎 Cokelat | `#68443A` | Natural dan dekat dengan karakter kuliner lokal |
+| 🔴 Merah Bakso | `#B83227` | Berani dan menggugah selera |
+| 🧡 Oranye | `#E87936` | Hangat dan ceria |
+| 🍮 Krem | `#FFCB8E` | Lembut dan manis |
+| 🤎 Cokelat | `#68443A` | Natural dan nyaman |
 
 </div>
 
-Konsep visual README ini menggunakan banner bergelombang, kontras warna yang kuat, badge, dan avatar untuk menciptakan tampilan yang modern serta memberi kesan berlapis.
+Konsep visual kami menggabungkan warna hangat, dekorasi lucu, banner bergelombang, dan badge untuk menciptakan identitas yang ramah serta mudah dikenali.
 
-**Catatan teknis:** Banner dapat dianimasikan oleh layanan eksternal. Efek 3D interaktif tidak dapat dijalankan langsung di README GitHub seperti pada halaman website yang mendukung CSS dan JavaScript.
-
-## 👩‍🍳 05. Our Awesome Team
+## 👩🏻‍🍳 05. Meet Our Awesome Team
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B83227,100:E87936&height=100&section=header&text=MEET%20OUR%20TEAM&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Meet Our Team"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:B83227,100:E87936&height=100&section=header&text=OUR%20LITTLE%20DREAM%20TEAM&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Our Team Banner"/>
 
-*Four Members, One Dream!*
+*Four Members, One Dream!* 💗
 
 </div>
 
@@ -146,38 +155,38 @@ Konsep visual README ini menggunakan banner bergelombang, kontras warna yang kua
 <tr>
 <td align="center" width="25%">
 
-<img src="https://ui-avatars.com/api/?name=Rani+Simahbengi&background=B83227&color=fff&size=180&rounded=true&bold=true" width="110" alt="Avatar Rani Simahbengi"/>
+<img src="https://ui-avatars.com/api/?name=Rani+Simahbengi&background=B83227&color=fff&size=180&rounded=true&bold=true" width="110" alt="Rani Simahbengi"/>
 
 ### Rani Simahbengi
 
-Anggota Kelompok 4
+🌷 Anggota Kelompok 4
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://ui-avatars.com/api/?name=Anisa+Aulia&background=E87936&color=fff&size=180&rounded=true&bold=true" width="110" alt="Avatar Anisa Aulia"/>
+<img src="https://ui-avatars.com/api/?name=Anisa+Aulia&background=E87936&color=fff&size=180&rounded=true&bold=true" width="110" alt="Anisa Aulia"/>
 
 ### Anisa Aulia
 
-Anggota Kelompok 4
+🍊 Anggota Kelompok 4
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://ui-avatars.com/api/?name=Zaskia+Lexsa&background=68443A&color=fff&size=180&rounded=true&bold=true" width="110" alt="Avatar Zaskia Lexsa"/>
+<img src="https://ui-avatars.com/api/?name=Zaskia+Lexsa&background=68443A&color=fff&size=180&rounded=true&bold=true" width="110" alt="Zaskia Lexsa"/>
 
 ### Zaskia Lexsa
 
-Anggota Kelompok 4
+🍮 Anggota Kelompok 4
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://ui-avatars.com/api/?name=M.+Rizki+Foenna&background=D99A42&color=fff&size=180&rounded=true&bold=true" width="110" alt="Avatar M. Rizki Foenna"/>
+<img src="https://ui-avatars.com/api/?name=M.+Rizki+Foenna&background=D99A42&color=fff&size=180&rounded=true&bold=true" width="110" alt="M. Rizki Foenna"/>
 
 ### M. Rizki Foenna
 
-Anggota Kelompok 4
+🍜 Anggota Kelompok 4
 
 </td>
 </tr>
@@ -185,13 +194,15 @@ Anggota Kelompok 4
 
 <div align="center">
 
-🍜 **Four Members, One Goal!**
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
-Bersama belajar, berkolaborasi, dan mengembangkan solusi digital untuk UMKM lokal.
+**Together We Learn, Together We Build!**
+
+*Bersama belajar, berkolaborasi, dan menciptakan solusi digital untuk UMKM lokal.* 💌
 
 </div>
 
-## 🛠️ 06. Teknologi yang Digunakan
+## 🛠️ 06. Technologies We Use
 
 <div align="center">
 
@@ -210,11 +221,9 @@ Bersama belajar, berkolaborasi, dan mengembangkan solusi digital untuk UMKM loka
 | JavaScript | Menambahkan interaksi dan fungsionalitas |
 | Git | Melacak perubahan kode |
 | GitHub | Menyimpan repository dan mendukung kolaborasi |
-| Supabase | Opsi backend untuk database, autentikasi, dan penyimpanan foto |
+| Supabase | Layanan backend untuk database, autentikasi, dan penyimpanan foto jika dikonfigurasi |
 
-*Implementasi layanan backend mengikuti konfigurasi proyek yang tersedia.*
-
-## 📂 07. Struktur Repository
+## 📂 07. Repository Structure
 
 ```text
 kelompok-4/
@@ -236,11 +245,11 @@ kelompok-4/
 └── .gitignore
 ```
 
-> Struktur di atas merupakan struktur proyek yang direncanakan. Pastikan nama file dan folder sesuai dengan yang benar-benar tersedia di repository.
+> Struktur tersebut merupakan gambaran proyek. Sesuaikan dengan file yang benar-benar tersedia di repository.
 
-## 📚 08. Dokumentasi Sprint 1
+## 📚 08. Sprint 1 Documentation
 
-Dokumentasi berikut membantu menjelaskan proses analisis, perencanaan, dan perancangan proyek.
+Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, dan perancangan proyek.
 
 | Dokumen | Penjelasan |
 |:--|:--|
@@ -250,56 +259,58 @@ Dokumentasi berikut membantu menjelaskan proses analisis, perencanaan, dan peran
 | [⚙️ Project Setup](docs/project-setup.md) | Panduan konfigurasi proyek |
 | [🎨 UX Design](docs/ux-design.md) | Rancangan antarmuka dan pengalaman pengguna |
 
-## 🤝 09. Kolaborasi dan Pengembangan
+## 🤝 09. Collaboration Workflow
 
-Kami menggunakan GitHub sebagai sarana untuk bekerja sama dan mengelola perkembangan proyek.
+Kami menggunakan GitHub untuk berkolaborasi, mengelola kode, dan mendokumentasikan perkembangan proyek.
+
+<div align="center">
+
+**📝 PLAN** → **💻 DEVELOP** → **🔍 REVIEW** → **🔗 INTEGRATE** → **🎉 EVALUATE**
+
+</div>
 
 1. Membagi tugas sesuai kesepakatan kelompok.
 2. Mengembangkan fitur dan dokumentasi secara bertahap.
 3. Menggunakan Git untuk mencatat perubahan.
 4. Memeriksa kode sebelum menggabungkan perubahan.
-5. Memperbarui dokumentasi sesuai perkembangan proyek.
+5. Memperbarui dokumentasi sesuai progres.
 6. Mengevaluasi hasil pekerjaan pada akhir sprint.
 
-### 🔄 Workflow Kolaborasi
-
-<div align="center">
-
-**PLAN** → **DEVELOP** → **REVIEW** → **INTEGRATE** → **EVALUATE**
-
-</div>
-
-## 🚀 10. Rencana Pengembangan
+## 🚀 10. Our Development Checklist
 
 - [ ] Menyelesaikan desain antarmuka website.
 - [ ] Melengkapi informasi menu dan profil UMKM.
 - [ ] Menambahkan galeri foto produk.
-- [ ] Menghubungkan upload foto ke penyimpanan online.
-- [ ] Menguji tampilan website di desktop dan perangkat mobile.
+- [ ] Menghubungkan fitur upload foto ke penyimpanan online.
+- [ ] Menguji tampilan di desktop dan perangkat mobile.
 - [ ] Melakukan pengujian fungsional.
 - [ ] Memastikan tautan dan dokumentasi berfungsi.
-- [ ] Mempublikasikan website melalui GitHub Pages atau layanan hosting lain.
+- [ ] Memastikan publikasi website berjalan dengan baik.
 
-*Perbarui daftar ini sesuai progres pekerjaan tim yang sebenarnya.*
+*Checklist ini dapat diperbarui sesuai progres pekerjaan tim.*
 
-## 🌟 11. Visi Kami
+## 🌟 11. Our Vision
 
 Kami percaya bahwa teknologi dapat membantu UMKM lokal menjangkau lebih banyak pelanggan.
 
-Melalui proyek Website UMKM Bakso Jambo Langsa, kami berharap dapat menggabungkan kreativitas, teknologi, dan kerja sama tim untuk menghasilkan solusi digital yang bermanfaat.
+Melalui proyek website Bakso Jambo Langsa, kami ingin memadukan kreativitas, teknologi, dan kerja sama tim untuk menghasilkan solusi digital yang bermanfaat.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB8E,50:E87936,100:B83227&height=150&section=footer&animation=fadeIn" alt="Kelompok 4 Footer"/>
+🌷 ─────────────── 🌷
 
 ### 🍜 Local Taste, Digital Future!
 
-**Learn Together · Build Together · Grow Together ❤️**
+**Learn Together ♡ Build Together ♡ Grow Together**
 
-*Made with ❤️ by Kelompok 4*
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 💗 🍜 ✨
 
-MPPL — Sprint 1
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB8E,50:E87936,100:B83227&height=150&section=footer&animation=fadeIn" alt="Cute Kelompok 4 Footer"/>
 
-⭐ Terima kasih telah mengunjungi repository kami! ⭐
+**Made with ❤️ by Kelompok 4**
+
+*MPPL — Sprint 1*
+
+⭐ Thank you for visiting our little corner! ⭐
 
 </div>
