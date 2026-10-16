@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
   <img src="a_wide_colorful_cute_3d_cgi_cartoon_illustration.png" width="100%" alt="Banner 3D Bakso Jambo Langsa"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?
 
 
-### 🍜 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Project!
+### 🍜 Welcome to Our Project!
 
 
-*Local Taste, Digital Experience ♡*
+*Local Taste, Digital Experience *
 
 </div>
 
@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
 <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
 
-###  ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project! ♡
+### Welcome to Our Little Project! ♡
 
-*Local Taste, Digital Experience* 🍜
+*Local Taste, Digital Experience* 
 
 </div>
 
@@ -58,7 +58,7 @@
 </p>
 ##  01. Hello, Everyone!
 
-Hiii, everyone! 👋🏻💗
+Hiii, everyone! 
 
 Selamat datang di repository resmi **Kelompok 4** dalam proyek pengembangan perangkat lunak untuk UMKM **Bakso Jambo Langsa, Aceh**.
 
@@ -68,13 +68,11 @@ Kami ingin menghadirkan website yang informatif, menarik, dan mudah diakses agar
 
 <div align="center">
 
-🌸 ─────────────── 🌸
 
 **Small Business, Big Digital Impact!**
 
 *Made with teamwork, creativity, and a little bowl of bakso.* 🍜
 
-🌸 ─────────────── 🌸
 
 </div>
 
