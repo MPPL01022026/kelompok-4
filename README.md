@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="banner-kelompok-4.png" width="100%" alt="Banner 3D Bakso Jambo Langsa"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,50:E87936,100:FFCB8E&height=250&section=header&text=BAKSO%20JAMBO&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=KELOMPOK%204%20%E2%80%A2%20UMKM%20DIGITAL&descAlignY=58&descSize=20" alt="Bakso Jambo Langsa - Kelompok 4"/>
+  <img src="a_wide_colorful_cute_3d_cgi_cartoon_illustration.png" width="100%" alt="Banner 3D Bakso Jambo Langsa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?
+
 
 ### 🍜 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Project!
 
