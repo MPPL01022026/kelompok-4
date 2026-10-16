@@ -1,12 +1,22 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,45:E87936,100:FFCB8E&height=240&section=header&text=KELOMPOK%204&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=🍜%20Bakso%20Jambo%20Langsa%20%E2%9C%A8&descAlignY=58&descSize=22" alt="Banner Kelompok 4"/>
+<img src="assets/images/banner-kelompok-4.png" width="100%" alt="Banner 3D Gemes Bakso Jambo Langsa - Kelompok 4"/>
 
-# 🍜 ♡ Bakso Jambo Langsa ♡
+<br/>
 
-### ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project!
+<img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
+<img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
+<img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
 
-*Local Taste, Digital Experience* ♡
+### ♡ ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project! ♡
+
+*Local Taste, Digital Experience* 🍜
+
+</div>
+
+---
+
+
 
 <img src="https://img.shields.io/badge/🍜_PROJECT-UMKM_DIGITAL-B83227?style=for-the-badge" alt="Project UMKM Digital"/>
 <img src="https://img.shields.io/badge/✨_SPRINT-01-E87936?style=for-the-badge" alt="Sprint 1"/>
