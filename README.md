@@ -10,7 +10,11 @@
 
 </div>
 
----
+<p align="center">
+  <img src="divider-bakso.png"
+       alt="Colorful Bakso Jambo Divider"
+       width="100%">
+</p>
 <img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
 <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
 <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
@@ -21,7 +25,11 @@
 
 </div>
 
----
+<p align="center">
+  <img src="divider-bakso.png"
+       alt="Colorful Bakso Jambo Divider"
+       width="100%">
+</p>
 
 
 
@@ -43,8 +51,11 @@
 
 </div>
 
----
-
+<p align="center">
+  <img src="divider-bakso.png"
+       alt="Colorful Bakso Jambo Divider"
+       width="100%">
+</p>
 ## 🌷 01. Hello, Everyone!
 
 Hiii, everyone! 👋🏻💗
