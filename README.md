@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
 <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
 
-### ♡ ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project! ♡
+###  ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Welcome to Our Little Project! ♡
 
 *Local Taste, Digital Experience* 🍜
 
