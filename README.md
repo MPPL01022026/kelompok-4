@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="assets/images/banner-kelompok-4.png" width="100%" alt="Banner 3D Gemes Bakso Jambo Langsa - Kelompok 4"/>
-
-<br/>
-
+  <img src="banner-kelompok-4.png" width="100%" alt="Banner 3D Bakso Jambo Langsa - Kelompok 4"/>
+</div>
 <img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
 <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
 <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
