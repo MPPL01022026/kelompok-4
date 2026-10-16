@@ -56,7 +56,7 @@
        alt="Colorful Bakso Jambo Divider"
        width="100%">
 </p>
-## 🌷 01. Hello, Everyone!
+##  01. Hello, Everyone!
 
 Hiii, everyone! 👋🏻💗
 
