@@ -78,7 +78,7 @@ Kami ingin menghadirkan website yang informatif, menarik, dan mudah diakses agar
 
 </div>
 
-## 🍥 02. About Our Project
+## 02. About Our Project
 
 | Informasi | Keterangan |
 |:--|:--|
