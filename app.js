@@ -17,14 +17,40 @@
   $("#year").textContent = new Date().getFullYear();
   const menuToggle = $("#menuToggle");
   const mainNav = $("#mainNav");
+
+  function closeMobileNav() {
+    mainNav.classList.remove("open");
+    menuToggle.setAttribute("aria-expanded", "false");
+    menuToggle.setAttribute("aria-label", "Buka menu");
+  }
+
   menuToggle.addEventListener("click", () => {
     const open = mainNav.classList.toggle("open");
     menuToggle.setAttribute("aria-expanded", String(open));
+    menuToggle.setAttribute("aria-label", open ? "Tutup menu" : "Buka menu");
   });
-  mainNav.querySelectorAll("a").forEach(link => link.addEventListener("click", () => {
-    mainNav.classList.remove("open");
-    menuToggle.setAttribute("aria-expanded", "false");
-  }));
+
+  mainNav.querySelectorAll('a[href^="#"]').forEach(link => {
+    link.addEventListener("click", event => {
+      const targetId = link.getAttribute("href");
+      const target = targetId ? document.querySelector(targetId) : null;
+      closeMobileNav();
+      if (!target) return;
+      // Pastikan klik menu benar-benar menuju bagian yang ada.
+      event.preventDefault();
+      history.replaceState(null, "", targetId);
+      target.scrollIntoView({ behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+      target.focus({ preventScroll: true });
+    });
+  });
+
+  document.addEventListener("keydown", event => {
+    if (event.key === "Escape") closeMobileNav();
+  });
+
+  window.addEventListener("resize", () => {
+    if (window.matchMedia("(min-width: 621px)").matches) closeMobileNav();
+  });
 
   function setGalleryMessage(message) {
     galleryStatus.textContent = message;
@@ -62,7 +88,7 @@
   }
   async function loadGallery() {
     if (!client) {
-      setGalleryMessage("Galeri belum tersambung. Pengelola perlu mengatur Supabase mengikuti docs/project-setup.md.");
+      setGalleryMessage("Galeri belum tersambung karena konfigurasi Supabase belum diisi. Isi URL proyek dan publishable/anon key di js/supabase.js, lalu ikuti docs/project-setup.md untuk menyiapkan tabel dan Storage.");
       return;
     }
     const { data, error } = await client.from("gallery_photos")
@@ -70,7 +96,7 @@
       .order("created_at", { ascending: false });
     if (error) {
       console.error(error);
-      setGalleryMessage("Galeri belum dapat dimuat. Periksa konfigurasi Supabase dan kebijakan akses database.");
+      setGalleryMessage("Galeri gagal dimuat. Periksa koneksi, tabel gallery_photos, serta kebijakan akses (RLS) di Supabase.");
       return;
     }
     renderGallery(data || []);

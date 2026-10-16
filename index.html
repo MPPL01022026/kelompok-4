@@ -16,14 +16,14 @@
       <span class="brand-mark">BJ</span>
       <span><strong>BAKSO JAMBO</strong><small>Langsa, Aceh</small></span>
     </a>
-    <button class="menu-toggle" id="menuToggle" aria-label="Buka menu" aria-expanded="false">☰</button>
+    <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka menu" aria-controls="mainNav" aria-expanded="false">☰</button>
     <nav id="mainNav" class="main-nav" aria-label="Navigasi utama">
       <a href="#beranda">Beranda</a><a href="#menu">Menu</a><a href="#galeri">Galeri Foto</a><a href="#tentang">Tentang</a><a href="#kontak">Kontak</a>
     </nav>
   </header>
 
   <main>
-    <section id="beranda" class="hero">
+    <section id="beranda" tabindex="-1" class="hero">
       <div class="hero-copy">
         <p class="eyebrow">Kuliner lokal · Langsa, Aceh</p>
         <h1>Semangkuk bakso,<br><span>hangatkan harimu.</span></h1>
@@ -38,7 +38,7 @@
       </div>
     </section>
 
-    <section id="menu" class="section">
+    <section id="menu" tabindex="-1" class="section">
       <div class="section-heading"><p class="eyebrow">Pilihan menu</p><h2>Menu Bakso</h2><p>Contoh kartu menu. Ganti nama dan harga setelah mendapat daftar menu asli dari pemilik.</p></div>
       <div class="menu-grid">
         <article class="menu-card"><div class="menu-emoji">🍲</div><h3>Bakso Kuah</h3><p>Bakso dengan kuah hangat sebagai menu andalan.</p><span class="price">Harga: konfirmasi ke pemilik</span></article>
@@ -48,7 +48,7 @@
       <p class="small-note">Nama menu di atas adalah contoh rancangan, bukan daftar menu atau harga terverifikasi.</p>
     </section>
 
-    <section id="galeri" class="section gallery-section">
+    <section id="galeri" tabindex="-1" class="section gallery-section">
       <div class="section-heading"><p class="eyebrow">Dari dapur ke galeri</p><h2>Galeri Foto Bakso</h2><p>Foto yang sudah diunggah akan ditampilkan kepada semua pengunjung.</p></div>
       <div id="galleryStatus" class="status" role="status">Memuat galeri…</div>
       <div id="galleryGrid" class="gallery-grid"></div>
@@ -73,12 +73,12 @@
       </section>
     </section>
 
-    <section id="tentang" class="section about-section">
+    <section id="tentang" tabindex="-1" class="section about-section">
       <div class="about-badge">UMKM<br>LOKAL</div>
       <div><p class="eyebrow">Tentang usaha</p><h2>Mendukung kuliner lokal Langsa</h2><p>Website ini dibuat sebagai proyek pembelajaran untuk memperkenalkan UMKM Bakso Jambo di Langsa. Tambahkan sejarah usaha, jam operasional, bahan unggulan, dan cerita pemilik setelah informasinya dikonfirmasi langsung.</p><p class="small-note">Hindari memasukkan klaim yang belum dikonfirmasi oleh pemilik usaha.</p></div>
     </section>
 
-    <section id="kontak" class="section contact-section">
+    <section id="kontak" tabindex="-1" class="section contact-section">
       <div class="section-heading"><p class="eyebrow">Temukan kami</p><h2>Lokasi & Kontak</h2><p>Lengkapi informasi di bawah dengan alamat, nomor WhatsApp, dan jam buka resmi.</p></div>
       <div class="contact-grid">
         <article class="contact-card"><span>📍</span><h3>Lokasi</h3><p>Langsa, Aceh</p><small>Tambahkan alamat lengkap yang sudah dikonfirmasi.</small></article>
