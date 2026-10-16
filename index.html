@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Kenali Bakso Jambo Langsa, lihat menu, dan jelajahi galeri foto.">
+  <title>Bakso Jambo Langsa | Bakso Favoritmu</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script defer src="js/supabase.js"></script>
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#beranda" aria-label="Bakso Jambo, beranda">
+      <span class="brand-mark">BJ</span>
+      <span><strong>BAKSO JAMBO</strong><small>Langsa, Aceh</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Buka menu" aria-expanded="false">☰</button>
+    <nav id="mainNav" class="main-nav" aria-label="Navigasi utama">
+      <a href="#beranda">Beranda</a><a href="#menu">Menu</a><a href="#galeri">Galeri Foto</a><a href="#tentang">Tentang</a><a href="#kontak">Kontak</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="beranda" class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Kuliner lokal · Langsa, Aceh</p>
+        <h1>Semangkuk bakso,<br><span>hangatkan harimu.</span></h1>
+        <p class="hero-description">Kenali Bakso Jambo melalui menu, cerita usaha, dan galeri foto. Informasi harga dan kontak dapat diperbarui sesuai data pemilik UMKM.</p>
+        <div class="hero-actions"><a class="button button-primary" href="#menu">Lihat Menu</a><a class="button button-light" href="#galeri">Jelajahi Galeri</a></div>
+        <p class="small-note">Catatan: sesuaikan detail usaha dengan informasi resmi dari pemilik.</p>
+      </div>
+      <div class="hero-art" role="img" aria-label="Ilustrasi semangkuk bakso">
+        <div class="steam steam-one"></div><div class="steam steam-two"></div>
+        <div class="bowl"><div class="broth"></div><span class="meatball m1"></span><span class="meatball m2"></span><span class="meatball m3"></span><span class="meatball m4"></span><span class="noodle"></span><span class="greenery">✦</span></div>
+        <div class="hero-stamp">RASA<br>LOKAL</div>
+      </div>
+    </section>
+
+    <section id="menu" class="section">
+      <div class="section-heading"><p class="eyebrow">Pilihan menu</p><h2>Menu Bakso</h2><p>Contoh kartu menu. Ganti nama dan harga setelah mendapat daftar menu asli dari pemilik.</p></div>
+      <div class="menu-grid">
+        <article class="menu-card"><div class="menu-emoji">🍲</div><h3>Bakso Kuah</h3><p>Bakso dengan kuah hangat sebagai menu andalan.</p><span class="price">Harga: konfirmasi ke pemilik</span></article>
+        <article class="menu-card"><div class="menu-emoji">🌶️</div><h3>Bakso Pedas</h3><p>Varian pedas untuk penggemar rasa yang lebih berani.</p><span class="price">Harga: konfirmasi ke pemilik</span></article>
+        <article class="menu-card"><div class="menu-emoji">🍜</div><h3>Bakso + Mi</h3><p>Pilihan bakso dengan mi untuk hidangan lebih lengkap.</p><span class="price">Harga: konfirmasi ke pemilik</span></article>
+      </div>
+      <p class="small-note">Nama menu di atas adalah contoh rancangan, bukan daftar menu atau harga terverifikasi.</p>
+    </section>
+
+    <section id="galeri" class="section gallery-section">
+      <div class="section-heading"><p class="eyebrow">Dari dapur ke galeri</p><h2>Galeri Foto Bakso</h2><p>Foto yang sudah diunggah akan ditampilkan kepada semua pengunjung.</p></div>
+      <div id="galleryStatus" class="status" role="status">Memuat galeri…</div>
+      <div id="galleryGrid" class="gallery-grid"></div>
+      <section class="admin-panel" aria-labelledby="adminTitle">
+        <div class="admin-intro"><p class="eyebrow">Khusus pengelola</p><h3 id="adminTitle">Kelola foto galeri</h3><p>Pengunjung dapat melihat galeri. Hanya akun pengelola yang sudah masuk yang dapat mengunggah foto.</p></div>
+        <form id="loginForm" class="admin-form">
+          <label for="adminEmail">Email pengelola</label><input id="adminEmail" type="email" autocomplete="username" required placeholder="admin@example.com">
+          <label for="adminPassword">Kata sandi</label><input id="adminPassword" type="password" autocomplete="current-password" required placeholder="Kata sandi akun Supabase">
+          <button class="button button-primary" type="submit">Masuk pengelola</button>
+        </form>
+        <div id="uploadPanel" class="upload-panel" hidden>
+          <p id="signedInMessage" class="status"></p>
+          <form id="uploadForm" class="admin-form">
+            <label for="photoTitle">Nama foto / menu</label><input id="photoTitle" type="text" maxlength="80" required placeholder="Contoh: Bakso kuah">
+            <label for="photoDescription">Keterangan (opsional)</label><input id="photoDescription" type="text" maxlength="180" placeholder="Keterangan singkat">
+            <label for="photoFile">Pilih foto (JPG, PNG, atau WebP; maks. 5 MB)</label><input id="photoFile" type="file" accept="image/jpeg,image/png,image/webp" required>
+            <button class="button button-primary" type="submit">Unggah foto</button>
+          </form>
+          <button id="logoutButton" class="button button-light" type="button">Keluar</button>
+        </div>
+        <p id="adminStatus" class="status" role="status"></p>
+      </section>
+    </section>
+
+    <section id="tentang" class="section about-section">
+      <div class="about-badge">UMKM<br>LOKAL</div>
+      <div><p class="eyebrow">Tentang usaha</p><h2>Mendukung kuliner lokal Langsa</h2><p>Website ini dibuat sebagai proyek pembelajaran untuk memperkenalkan UMKM Bakso Jambo di Langsa. Tambahkan sejarah usaha, jam operasional, bahan unggulan, dan cerita pemilik setelah informasinya dikonfirmasi langsung.</p><p class="small-note">Hindari memasukkan klaim yang belum dikonfirmasi oleh pemilik usaha.</p></div>
+    </section>
+
+    <section id="kontak" class="section contact-section">
+      <div class="section-heading"><p class="eyebrow">Temukan kami</p><h2>Lokasi & Kontak</h2><p>Lengkapi informasi di bawah dengan alamat, nomor WhatsApp, dan jam buka resmi.</p></div>
+      <div class="contact-grid">
+        <article class="contact-card"><span>📍</span><h3>Lokasi</h3><p>Langsa, Aceh</p><small>Tambahkan alamat lengkap yang sudah dikonfirmasi.</small></article>
+        <article class="contact-card"><span>☎️</span><h3>Kontak</h3><p>Belum ditambahkan</p><small>Tambahkan nomor resmi atau tautan WhatsApp.</small></article>
+        <article class="contact-card"><span>🕒</span><h3>Jam operasional</h3><p>Konfirmasi ke pemilik</p><small>Perbarui hari dan jam buka usaha.</small></article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><a class="brand footer-brand" href="#beranda"><span class="brand-mark">BJ</span><span><strong>BAKSO JAMBO</strong><small>Langsa, Aceh</small></span></a><p>Proyek pembelajaran UMKM · Sprint 1</p><p>© <span id="year"></span> Bakso Jambo Langsa. Informasi usaha perlu diverifikasi pemilik.</p></footer>
+</body>
+</html>
