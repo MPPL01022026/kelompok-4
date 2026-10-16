@@ -331,7 +331,7 @@ Melalui proyek website Bakso Jambo Langsa, kami ingin memadukan kreativitas, tek
 
 **Learn Together ♡ Build Together ♡ Grow Together**
 
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 💗 🍜 ✨
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 💗 🍜 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB8E,50:E87936,100:B83227&height=150&section=footer&animation=fadeIn" alt="Cute Kelompok 4 Footer"/>
 
