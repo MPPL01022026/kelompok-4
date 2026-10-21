@@ -1,44 +1,44 @@
 # Project Cost Estimation
 
 ## 1. Tujuan
-Dokumen ini menyajikan estimasi biaya perencanaan untuk proyek **Digitalisasi UMKM Bakso Jambo Langsa**. Angka berikut merupakan **simulasi akademik**, bukan bukti pengeluaran aktual atau penawaran harga vendor.
+Dokumen ini memperkirakan biaya proyek **Website UMKM Bakso Jambo Langsa** berdasarkan effort dari WBS.
 
-## 2. Asumsi
-- Total usaha dari dokumen Effort Estimation: 14 manday.
-- Nilai simulasi tenaga kerja: Rp100.000 per manday.
-- Hosting, repositori, dan penyimpanan foto diasumsikan menggunakan paket gratis selama kebutuhan proyek masih sesuai dengan batas layanan.
-- Overhead dihitung sebagai 10% dari biaya tenaga kerja.
-- Biaya internet, perangkat pribadi, dan pajak tidak dihitung terpisah untuk menghindari penghitungan ganda.
+**Penting:** angka di bawah adalah simulasi akademik, bukan pengeluaran aktual atau penawaran harga vendor.
+
+## 2. Asumsi Perhitungan
+- Total estimasi usaha: **15.75 manday** (lihat `effort-estimation.md`).
+- Tarif tenaga kerja simulasi: Rp100.000 per manday.
+- GitHub Pages dan repository diasumsikan menggunakan paket gratis.
+- Supabase diasumsikan cukup dengan paket gratis untuk kebutuhan demo; tim harus memeriksa kuota dan fitur aktual.
+- Overhead simulasi: 10% dari biaya tenaga kerja.
+- Laptop dan koneksi internet diasumsikan menggunakan sumber daya yang sudah dimiliki anggota, sehingga tidak diberi biaya tambahan di simulasi ini.
 
 ## 3. Estimasi Biaya
 
-| No. | Komponen | Dasar Perhitungan | Estimasi Biaya |
-|---|---|---|---:|
-| 1 | Tenaga kerja | 14 manday × Rp100.000 | Rp1.400.000 |
-| 2 | Hosting website | Asumsi paket gratis | Rp0 |
-| 3 | Repositori kode | Asumsi paket gratis | Rp0 |
-| 4 | Penyimpanan foto online | Asumsi kuota gratis mencukupi | Rp0 |
-| 5 | Overhead | 10% × Rp1.400.000 | Rp140.000 |
-| | **Total estimasi biaya** | | **Rp1.540.000** |
+| Komponen | Dasar perhitungan | Estimasi biaya |
+|---|---|---:|
+| Tenaga kerja | 15.75 manday × Rp100.000 | Rp1,575,000 |
+| GitHub Pages / repository | Asumsi paket gratis | Rp0 |
+| Supabase | Asumsi kuota paket gratis mencukupi | Rp0 |
+| Perangkat | Perangkat anggota yang tersedia | Rp0 |
+| Overhead | 10% × biaya tenaga kerja | Rp157,500 |
+| **Total simulasi** | | **Rp1,732,500** |
 
 ## 4. Rumus
-- **Biaya tenaga kerja** = total manday × tarif simulasi per manday.
-- **Overhead** = persentase overhead × biaya tenaga kerja.
-- **Total biaya** = biaya tenaga kerja + layanan/perangkat berbayar + overhead.
+- Biaya tenaga kerja = manday × tarif simulasi per manday.
+- Overhead = 10% × biaya tenaga kerja.
+- Total estimasi = tenaga kerja + biaya layanan/perangkat berbayar + overhead.
 
-Dengan asumsi di atas:
+Dengan asumsi simulasi saat ini, biaya tenaga kerja dihitung dari 15.75 manday. Nilai rupiah harus dibaca sebagai **nilai estimasi akademik**, bukan uang yang benar-benar dibayarkan.
 
-`Total = Rp1.400.000 + Rp0 + Rp140.000 = Rp1.540.000`
+## 5. Biaya yang Harus Diverifikasi
+1. Apakah kuota penyimpanan, bandwidth, autentikasi, dan database Supabase cukup untuk demo.
+2. Apakah kelompok memerlukan domain khusus atau layanan berbayar.
+3. Apakah ada biaya pembelian foto, aset desain, atau kebutuhan operasional lain.
+4. Apakah dosen meminta biaya tenaga kerja simulatif atau hanya biaya kas yang benar-benar dikeluarkan.
 
-## 5. Biaya yang Perlu Diverifikasi
-Sebelum laporan akhir, tim perlu memeriksa:
-1. Apakah layanan hosting dan penyimpanan yang dipilih tetap memiliki paket gratis yang sesuai.
-2. Apakah terdapat batas kuota, bandwidth, ukuran file, atau fitur yang mengharuskan peningkatan paket.
-3. Apakah ada pembelian domain, aset desain, perangkat, atau kebutuhan operasional lain.
-4. Apakah dosen meminta perhitungan biaya tenaga kerja simulatif atau hanya pengeluaran kas nyata.
-
-## 6. Skenario Biaya Kas
-Jika tugas meminta hanya pengeluaran kas aktual, jangan memasukkan nilai tenaga kerja simulatif sebagai uang yang benar-benar dibayarkan. Laporkan biaya aktual yang dapat dibuktikan, dan pisahkan nilai tenaga kerja sebagai estimasi ekonomi bila diperlukan.
+## 6. Pemisahan Biaya Kas dan Biaya Tenaga Kerja
+Jika laporan hanya meminta pengeluaran kas, laporkan biaya aktual yang dapat dibuktikan. Jangan menyatakan nilai tenaga kerja simulatif sebagai uang yang sudah dibayarkan. Biaya tenaga kerja dapat dicantumkan terpisah sebagai estimasi ekonomi jika diminta.
 
 ## 7. Batasan
-Seluruh angka merupakan asumsi perencanaan dan perlu diperbarui berdasarkan harga aktual, pilihan layanan, dan kebijakan penilaian mata kuliah.
+Semua tarif, persentase overhead, dan biaya layanan merupakan asumsi untuk perencanaan. Ganti dengan data yang sesuai jika tersedia.
