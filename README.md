@@ -1,64 +1,40 @@
  <div align="center">
+
   <img src="a_wide_colorful_cute_3d_cgi_cartoon_illustration.png" width="100%" alt="Banner 3D Bakso Jambo Langsa"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B83227,50:E87936,100:FFCB8E&height=180&section=header&text=KELOMPOK%204&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=Bakso%20Jambo%20Langsa&descSize=20&descAlignY=75" width="100%" alt="Kelompok 4 Banner"/>
 
-### 🍜 Welcome to Our Project!
+  ### 🍜 Welcome to Our Little Project! ♡
 
+  *Local Taste, Digital Experience*
 
-*Local Taste, Digital Experience *
+  <img src="divider-bakso.png" alt="Colorful Bakso Jambo Divider" width="100%"/>
 
-</div>
+  <img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
+  <img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
+  <img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
 
-<p align="center">
-  <img src="divider-bakso.png"
-       alt="Colorful Bakso Jambo Divider"
-       width="100%">
-</p>
-<img src="https://img.shields.io/badge/🍜_BAKSO_JAMBO-B83227?style=for-the-badge" alt="Bakso Jambo"/>
-<img src="https://img.shields.io/badge/🧡_KELOMPOK_4-E87936?style=for-the-badge" alt="Kelompok 4"/>
-<img src="https://img.shields.io/badge/✨_SPRINT_1-68443A?style=for-the-badge" alt="Sprint 1"/>
+  <br/>
 
-### Welcome to Our Little Project! ♡
+  <a href="https://mppl01022026.github.io/kelompok-4/">
+    <img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-B83227?style=for-the-badge" alt="Visit Website"/>
+  </a>
 
-*Local Taste, Digital Experience* 
+  <br/>
 
-</div>
+  **૮₍ ˶•⤙•˶ ₎ა Semangkuk Bakso, Sejuta Cerita! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა**
 
-<p align="center">
-  <img src="divider-bakso.png"
-       alt="Colorful Bakso Jambo Divider"
-       width="100%">
-</p>
+  *Menghadirkan cita rasa lokal ke dunia digital, satu mangkuk penuh cerita.* 💌
 
-
-
-<img src="https://img.shields.io/badge/🍜_PROJECT-UMKM_DIGITAL-B83227?style=for-the-badge" alt="Project UMKM Digital"/>
-<img src="https://img.shields.io/badge/✨_SPRINT-01-E87936?style=for-the-badge" alt="Sprint 1"/>
-<img src="https://img.shields.io/badge/💗_TEAM-KELOMPOK_4-68443A?style=for-the-badge" alt="Kelompok 4"/>
-
-<br/>
-
-<a href="https://mppl01022026.github.io/kelompok-4/">
-<img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-B83227?style=for-the-badge" alt="Visit Website"/>
-</a>
-
-<br/>
-
-**૮₍ ˶•⤙•˶ ₎ა** Semangkuk Bakso, Sejuta Cerita! **૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა**
-
-*Menghadirkan cita rasa lokal ke dunia digital, satu mangkuk penuh cerita.* 💌
+  <img src="divider-bakso.png" alt="Colorful Bakso Jambo Divider" width="100%"/>
 
 </div>
 
-<p align="center">
-  <img src="divider-bakso.png"
-       alt="Colorful Bakso Jambo Divider"
-       width="100%">
-</p>
-##  01. Hello, Everyone!
+---
 
-Hiii, everyone! 
+## 🍜 01. Hello, Everyone!
+
+Hiii, everyone! ♡
 
 Selamat datang di repository resmi **Kelompok 4** dalam proyek pengembangan perangkat lunak untuk UMKM **Bakso Jambo Langsa, Aceh**.
 
@@ -68,15 +44,13 @@ Kami ingin menghadirkan website yang informatif, menarik, dan mudah diakses agar
 
 <div align="center">
 
-
 **Small Business, Big Digital Impact!**
 
 *Made with teamwork, creativity, and a little bowl of bakso.* 🍜
 
-
 </div>
 
-## 02. About Our Project
+## 🍮 02. About Our Project
 
 | Informasi | Keterangan |
 |:--|:--|
@@ -87,6 +61,7 @@ Kami ingin menghadirkan website yang informatif, menarik, dan mudah diakses agar
 | 🔄 Metodologi | Agile |
 | 🚀 Tahapan | Sprint 1 |
 | 🎯 Target Pengguna | Pelanggan dan pengelola UMKM |
+| 📍 Lokasi UMKM | Langsa, Aceh |
 
 ### 🎀 Our Goals
 
@@ -150,7 +125,7 @@ Informasi lokasi dan kontak usaha untuk membantu pelanggan menemukan UMKM.
 </tr>
 </table>
 
-> 💌 **Catatan:** Ketersediaan fitur mengikuti implementasi kode yang sudah selesai. Fitur yang membutuhkan backend harus dikonfigurasi dan diuji terlebih dahulu.
+> 💌 **Catatan:** Ketersediaan fitur mengikuti implementasi kode yang telah selesai. Fitur yang membutuhkan backend harus dikonfigurasi dan diuji terlebih dahulu.
 
 ## 🎨 04. Our Cute Color Palette
 
@@ -247,9 +222,11 @@ Konsep visual kami menggabungkan warna hangat, dekorasi lucu, banner bergelomban
 | JavaScript | Menambahkan interaksi dan fungsionalitas |
 | Git | Melacak perubahan kode |
 | GitHub | Menyimpan repository dan mendukung kolaborasi |
-| Supabase | Layanan backend untuk database, autentikasi, dan penyimpanan foto jika dikonfigurasi |
+| Supabase | Layanan backend untuk database dan penyimpanan foto jika dikonfigurasi |
 
 ## 📂 07. Repository Structure
+
+Struktur repository proyek direncanakan seperti berikut. Daftar ini perlu disesuaikan jika ada file yang belum dibuat atau memiliki nama berbeda.
 
 ```text
 kelompok-4/
@@ -262,6 +239,7 @@ kelompok-4/
 │   └── supabase.js
 ├── docs/
 │   ├── wbs.md
+│   ├── gantt-chart.md
 │   ├── agile-methodology.md
 │   ├── function-point.md
 │   ├── project-setup.md
@@ -271,19 +249,28 @@ kelompok-4/
 └── .gitignore
 ```
 
-> Struktur tersebut merupakan gambaran proyek. Sesuaikan dengan file yang benar-benar tersedia di repository.
+> **Penting:** File gambar banner dan divider yang digunakan README harus tersedia di repository dengan nama dan lokasi yang sesuai. Struktur folder di atas merupakan gambaran, bukan konfirmasi bahwa semua file sudah tersedia.
 
 ## 📚 08. Sprint 1 Documentation
 
-Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, dan perancangan proyek.
+Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, penjadwalan, dan perancangan proyek Website UMKM Bakso Jambo Langsa.
 
 | Dokumen | Penjelasan |
 |:--|:--|
-| [📌 Work Breakdown Structure](wbs.md) | Pembagian pekerjaan dan ruang lingkup proyek |
-| [🔄 Agile Methodology](agile-methodology.md) | Metode pengembangan dan perencanaan sprint |
-| [📊 Function Point Analysis](function-point.md) | Estimasi ukuran fungsional sistem |
-| [⚙️ Project Setup](project-setup.md) | Panduan konfigurasi proyek |
-| [🎨 UX Design](ux-design.md) | Rancangan antarmuka dan pengalaman pengguna |
+| [📌 Work Breakdown Structure](docs/wbs.md) | Pembagian pekerjaan dan ruang lingkup proyek |
+| [📅 Project Schedule / Gantt Chart](docs/gantt-chart.md) | Jadwal aktivitas proyek dalam bentuk diagram Gantt |
+| [🔄 Agile Methodology](docs/agile-methodology.md) | Metode pengembangan dan perencanaan sprint |
+| [📊 Function Point Analysis](docs/function-point.md) | Estimasi ukuran fungsional sistem |
+| [⚙️ Project Setup](docs/project-setup.md) | Panduan konfigurasi proyek |
+| [🎨 UX Design](docs/ux-design.md) | Rancangan antarmuka dan pengalaman pengguna |
+
+### 📅 Project Schedule Preview
+
+Gantt Chart digunakan untuk melihat urutan pekerjaan, durasi, serta jadwal pelaksanaan proyek. Diagram lengkap dapat dilihat melalui dokumen berikut:
+
+**[📊 Buka Project Schedule / Gantt Chart](docs/gantt-chart.md)**
+
+Dokumen tersebut memuat jadwal aktivitas, diagram Gantt, milestone, serta asumsi pengendalian jadwal proyek.
 
 ## 🤝 09. Collaboration Workflow
 
@@ -291,7 +278,7 @@ Kami menggunakan GitHub untuk berkolaborasi, mengelola kode, dan mendokumentasik
 
 <div align="center">
 
-**📝 PLAN** → **💻 DEVELOP** → **🔍 REVIEW** → **🔗 INTEGRATE** → **🎉 EVALUATE**
+**📝 PLAN → 💻 DEVELOP → 🔍 REVIEW → 🔗 INTEGRATE → 🎉 EVALUATE**
 
 </div>
 
@@ -304,6 +291,8 @@ Kami menggunakan GitHub untuk berkolaborasi, mengelola kode, dan mendokumentasik
 
 ## 🚀 10. Our Development Checklist
 
+Checklist berikut digunakan untuk memantau progres pengembangan website dan dapat diperbarui sesuai kondisi pekerjaan sebenarnya.
+
 - [ ] Menyelesaikan desain antarmuka website.
 - [ ] Melengkapi informasi menu dan profil UMKM.
 - [ ] Menambahkan galeri foto produk.
@@ -312,8 +301,6 @@ Kami menggunakan GitHub untuk berkolaborasi, mengelola kode, dan mendokumentasik
 - [ ] Melakukan pengujian fungsional.
 - [ ] Memastikan tautan dan dokumentasi berfungsi.
 - [ ] Memastikan publikasi website berjalan dengan baik.
-
-*Checklist ini dapat diperbarui sesuai progres pekerjaan tim.*
 
 ## 🌟 11. Our Vision
 
@@ -329,7 +316,7 @@ Melalui proyek website Bakso Jambo Langsa, kami ingin memadukan kreativitas, tek
 
 **Learn Together ♡ Build Together ♡ Grow Together**
 
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 💗 🍜 
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა 💗 🍜
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB8E,50:E87936,100:B83227&height=150&section=footer&animation=fadeIn" alt="Cute Kelompok 4 Footer"/>
 
