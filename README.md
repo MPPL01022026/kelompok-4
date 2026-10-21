@@ -258,7 +258,7 @@ Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, penjadwala
 | Dokumen | Penjelasan |
 |:--|:--|
 | [📌 Work Breakdown Structure](docs/wbs.md) | Pembagian pekerjaan dan ruang lingkup proyek |
-| [📅 Project Schedule / Gantt Chart](docs/gantt-chart.md) | Jadwal aktivitas proyek dalam bentuk diagram Gantt |
+| [📅 Project Schedule / Gantt Chart](project-schedule.md) | Jadwal aktivitas proyek dalam bentuk diagram Gantt |
 | [🔄 Agile Methodology](docs/agile-methodology.md) | Metode pengembangan dan perencanaan sprint |
 | [📊 Function Point Analysis](docs/function-point.md) | Estimasi ukuran fungsional sistem |
 | [⚙️ Project Setup](docs/project-setup.md) | Panduan konfigurasi proyek |
