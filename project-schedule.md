@@ -21,18 +21,39 @@
 
 ## Gantt Chart
 
-Keterangan: `█` = aktivitas direncanakan berlangsung pada periode tersebut. Tanggal pada tabel merupakan rentang rencana, bukan bukti bahwa pekerjaan telah selesai.
+Diagram berikut menunjukkan jadwal aktivitas proyek berdasarkan tanggal mulai dan selesai yang telah direncanakan. Beberapa aktivitas berjalan secara paralel sesuai dependensinya.
 
-| Aktivitas | 21–22 Okt | 23–27 Okt | 28 Okt–2 Nov | 3–6 Nov | 9–13 Nov |
-|---|:---:|:---:|:---:|:---:|:---:|
-| A1 — Analisis kebutuhan | █ | | | | |
-| A2 — WBS dan perencanaan | | █ | | | |
-| A3 — UI/UX | | █ | | | |
-| A4 — Pengembangan website | | | █ | | |
-| A5 — Integrasi foto online | | | | █ | |
-| A6 — Pengujian | | | | █ | |
-| A7 — Deployment dan dokumentasi | | | | | █ |
-| A8 — Review dan finalisasi | | | | | █ |
+```mermaid
+gantt
+    title Project Schedule — Website UMKM Bakso Jambo Langsa
+    dateFormat YYYY-MM-DD
+    axisFormat %d %b
+    tickInterval 1week
+
+    section Analisis dan Perencanaan
+    A1 Identifikasi kebutuhan       :a1, 2026-10-21, 2d
+    A2 Penyusunan WBS               :a2, 2026-10-23, 2d
+    A3 Perancangan UI/UX             :a3, 2026-10-23, 3d
+
+    section Pengembangan
+    A4 Pengembangan website          :a4, 2026-10-28, 4d
+    A5 Integrasi penyimpanan foto    :a5, 2026-11-03, 2d
+
+    section Pengujian dan Deployment
+    A6 Pengujian dan perbaikan       :a6, 2026-11-05, 2d
+    A7 Deployment dan dokumentasi    :a7, 2026-11-09, 3d
+
+    section Review dan Finalisasi
+    A8 Review dan persiapan presentasi :a8, 2026-11-12, 2d
+    M6 Website dan dokumentasi siap direview :milestone, m6, 2026-11-13, 0d
+```
+
+**Keterangan:**
+- Batang horizontal menunjukkan rentang waktu pelaksanaan setiap aktivitas.
+- Aktivitas A2 dan A3 direncanakan berlangsung bersamaan.
+- Milestone M6 menandai target kesiapan website dan dokumentasi untuk direview.
+- Jadwal merupakan rencana (*baseline*), bukan bukti bahwa aktivitas telah selesai.
+
 
 ## Milestone
 
