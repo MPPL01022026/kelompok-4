@@ -300,7 +300,6 @@ Melalui proyek website Bakso Jambo Langsa, kami ingin memadukan kreativitas, tek
 
 **Made with  by Kelompok 4**
 
-*MPPL — Sprint 1*
 
  Thank you for visiting our little corner! 
 
