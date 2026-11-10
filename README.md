@@ -208,8 +208,6 @@ Konsep visual kami menggabungkan warna hangat, dekorasi lucu, banner bergelomban
 
 ##  07. Repository Structure
 
-Struktur repository proyek direncanakan seperti berikut. Daftar ini perlu disesuaikan jika ada file yang belum dibuat atau memiliki nama berbeda.
-
 ```text
 kelompok-4/
 ├── assets/
@@ -231,11 +229,9 @@ kelompok-4/
 └── .gitignore
 ```
 
-> **Penting:** File gambar banner dan divider yang digunakan README harus tersedia di repository dengan nama dan lokasi yang sesuai. Struktur folder di atas merupakan gambaran, bukan konfirmasi bahwa semua file sudah tersedia.
+
 
 ## 📚 08. Sprint 1 Documentation
-
-Dokumentasi berikut menjadi bagian dari proses analisis, perencanaan, penjadwalan, dan perancangan proyek Website UMKM Bakso Jambo Langsa.
 
 | Dokumen | Penjelasan |
 |:--|:--|
