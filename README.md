@@ -96,23 +96,7 @@ Informasi menu dan harga untuk membantu pelanggan mengenal pilihan produk.
 
 ###  Galeri Foto
 
-Kumpulan foto produk yang dapat dilihat pengunjung website.
-
-</td>
-<td align="center" width="50%">
-
-###  Upload Foto
-
-Fitur bagi pengelola untuk menambahkan foto produk melalui penyimpanan online.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-###  Tentang Kami
-
-Informasi mengenai usaha dan pengenalan UMKM Bakso Jambo Langsa.
+Informasi mengenai foto dan pengenalan UMKM Bakso Jambo Langsa.
 
 </td>
 <td align="center" width="50%">
@@ -124,8 +108,6 @@ Informasi lokasi dan kontak usaha untuk membantu pelanggan menemukan UMKM.
 </td>
 </tr>
 </table>
-
->  **Catatan:** Ketersediaan fitur mengikuti implementasi kode yang telah selesai. Fitur yang membutuhkan backend harus dikonfigurasi dan diuji terlebih dahulu.
 
 ##  04. Our Cute Color Palette
 
